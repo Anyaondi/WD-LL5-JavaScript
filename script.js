@@ -21,6 +21,8 @@ console.log("Welcome " + attendeeName + " to " + eventName + "!");
 console.log("Alert today's speaker is: " + speakerName);
 console.log("Your session is in Room " + roomNumber + ".");
 
+attendeeCount = attendeeCount+1; console.log(attendeeCount);
+
 
 // ── Challenge 3: Build Functions ────────────────────────────
 // Create at least two functions and call them below.
